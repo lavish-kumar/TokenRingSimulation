@@ -1,0 +1,2885 @@
+run:
+----------------------------------
+
+No.1 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 4
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 4
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 10
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 0
+No.3 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 6
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 11
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 10
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 10
+No.2 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 10
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 1
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 2
+No.3 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 6
+TU : 10 TL : 0 |Pushed 3
+No.2 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 9
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 10
+TU : 6 TL : 4 |Pushed 11
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 11
+TU : 10 TL : 0 |Pushed 9
+No.3 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 8
+No.1 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 2 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.2 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 11
+TU : 4 TL : 6 |Pushed 12
+TU : 5 TL : 5 |Pushed 10
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 0
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 5
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 10
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 8
+TU : 3 TL : 7 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 10
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 10
+TU : 10 TL : 0 |Pushed 10
+No.3 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 9
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 1
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 10
+TU : 8 TL : 2 |Pushed 1
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 6
+No.1 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 5
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 1 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 5
+No.1 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 8
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 10
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 10
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 10
+No.2 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 5
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 8
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 11
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 7
+No.4 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 0
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 11
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 8
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 5
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 12
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 11
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 10
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 3
+TU : 10 TL : 0 |Pushed 7
+No.1 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 10
+TU : 8 TL : 2 |Pushed 1
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 4
+No.3 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 3 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.1 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 6
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 11
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 6
+TU : 10 TL : 0 |Pushed 0
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 3
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 6
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 11
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 12
+TU : 5 TL : 5 |Pushed 11
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 10
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 9
+No.2 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 1
+TU : 8 TL : 2 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 16 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 12
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 8
+No.2 has 6 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 5
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 0
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 4
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 16 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 11
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 2
+No.2 has 6 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 8
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 6
+TU : 10 TL : 0 |Pushed 0
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 3
+No.1 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 9
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 2
+No.2 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 4
+No.4 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 4
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 15 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 12
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 8
+No.2 has 5 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 15 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 8
+No.4 has 5 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 11
+TU : 2 TL : 8 |Pushed 11
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 10
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 11
+TU : 10 TL : 0 |Pushed 0
+No.1 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 12
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 10
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 11
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 10
+No.2 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 1
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 4
+No.4 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 10
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 10
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 2
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 18 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 10
+No.4 has 8 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 7
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 4
+No.4 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 8
+TU : 3 TL : 7 |Pushed 12
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 12
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 9
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 6
+TU : 10 TL : 0 |Pushed 10
+No.1 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 0
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 2
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 4
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 10
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 9
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 7
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 5
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 10
+TU : 10 TL : 0 |Pushed 4
+No.2 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 3
+TU : 10 TL : 0 |Pushed 1
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 10
+No.2 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 3
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 8
+TU : 3 TL : 7 |Pushed 12
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 10
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 11
+No.4 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 9
+No.2 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 9
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 5
+TU : 10 TL : 0 |Pushed 4
+No.4 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 1
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 10
+No.2 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 10
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 5
+No.1 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 11
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 11
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 2
+No.2 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 12
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 0
+No.4 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 12
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 11
+TU : 10 TL : 0 |Pushed 5
+No.2 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 0 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 10
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 11
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 10
+No.1 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 12
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 10
+TU : 10 TL : 0 |Pushed 4
+No.2 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 6
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 3
+TU : 10 TL : 0 |Pushed 4
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 15 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 10
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 5
+No.1 has 5 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 17 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 12
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 9
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 1
+No.2 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 9
+TU : 10 TL : 0 |Pushed 0
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 11
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 3
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 7 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.2 has 7 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 2
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 18 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 2
+No.2 has 8 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 1
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 10
+TU : 10 TL : 0 |Pushed 4
+No.1 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 21 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 9
+TU : 4 TL : 6 |Pushed 9
+TU : 5 TL : 5 |Pushed 7
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 9
+No.2 has 11 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 6
+TU : 8 TL : 2 |Pushed 5
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 9
+TU : 4 TL : 6 |Pushed 8
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 8
+TU : 10 TL : 0 |Pushed 2
+No.1 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 12 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 12
+TU : 3 TL : 7 |Pushed 8
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 12
+TU : 10 TL : 0 |Pushed 4
+No.2 has 2 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 10
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 8
+No.3 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 10
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 8
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 14 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 10
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 12
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 8
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 9
+No.3 has 4 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 11
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 11
+TU : 7 TL : 3 |Pushed 12
+TU : 8 TL : 2 |Pushed 9
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 0
+No.2 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 9
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 6
+TU : 5 TL : 5 |Pushed 3
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 0
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 8
+TU : 2 TL : 8 |Pushed 9
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 12
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 2
+No.4 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 12
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 10
+TU : 10 TL : 0 |Pushed 11
+No.1 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 12
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 5
+TU : 8 TL : 2 |Pushed 2
+TU : 9 TL : 1 |Pushed 2
+TU : 10 TL : 0 |Pushed 3
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 16 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 10
+TU : 3 TL : 7 |Pushed 12
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 6
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 4
+TU : 9 TL : 1 |Pushed 1
+TU : 10 TL : 0 |Pushed 2
+No.4 has 6 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 12
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 6
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 1
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 8
+TU : 9 TL : 1 |Pushed 3
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 16 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 11
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 0
+TU : 7 TL : 3 |Pushed 0
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 0
+No.4 has 6 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 7
+TU : 5 TL : 5 |Pushed 8
+TU : 6 TL : 4 |Pushed 9
+TU : 7 TL : 3 |Pushed 12
+TU : 8 TL : 2 |Pushed 10
+TU : 9 TL : 1 |Pushed 11
+TU : 10 TL : 0 |Pushed 3
+No.1 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 7
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 6
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 4
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 1
+TU : 8 TL : 2 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 6 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 11
+TU : 3 TL : 7 |Pushed 11
+TU : 4 TL : 6 |Pushed 0
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 2
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 5 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 6
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 0
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 2
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 10 Packets : 
+TU : 1 TL : 9 |Pushed 5
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 1
+TU : 8 TL : 2 |Pushed 7
+TU : 9 TL : 1 |Pushed 4
+TU : 10 TL : 0 |Pushed 3
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 5
+TU : 5 TL : 5 |Pushed 1
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 7
+TU : 8 TL : 2 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 1 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 1 Packets : 
+TU : 1 TL : 9 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 4
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 3
+TU : 9 TL : 1 |Pushed 2
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 4
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 3
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 2
+TU : 8 TL : 2 |Pushed 1
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 4
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 6
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 3
+TU : 7 TL : 3 |Pushed 5
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 2 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 3
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 1 Packets : 
+++++++ The QUEUE is Totally empty Pass the token ++++++
+No.4 has 1 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 9 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 0
+TU : 3 TL : 7 |Pushed 4
+TU : 4 TL : 6 |Pushed 2
+TU : 5 TL : 5 |Pushed 5
+TU : 6 TL : 4 |Pushed 7
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 5
+TU : 9 TL : 1 |Pushed 4
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 0
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 13 Packets : 
+TU : 1 TL : 9 |Pushed 10
+TU : 2 TL : 8 |Pushed 7
+TU : 3 TL : 7 |Pushed 7
+TU : 4 TL : 6 |Pushed 3
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 8
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 11
+TU : 9 TL : 1 |Pushed 7
+TU : 10 TL : 0 |Pushed 5
+No.3 has 3 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 7 Packets : 
+TU : 1 TL : 9 |Pushed 3
+TU : 2 TL : 8 |Pushed 2
+TU : 3 TL : 7 |Pushed 0
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 2
+TU : 6 TL : 4 |Pushed 5
+TU : 7 TL : 3 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.4 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.1 has 3 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.1 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.2 has 4 Packets : 
+TU : 1 TL : 9 |Pushed 1
+TU : 2 TL : 8 |Pushed 3
+TU : 3 TL : 7 |Pushed 2
+TU : 4 TL : 6 |Pushed 2
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.2 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.3 has 8 Packets : 
+TU : 1 TL : 9 |Pushed 12
+TU : 2 TL : 8 |Pushed 5
+TU : 3 TL : 7 |Pushed 1
+TU : 4 TL : 6 |Pushed 1
+TU : 5 TL : 5 |Pushed 0
+TU : 6 TL : 4 |Pushed 4
+TU : 7 TL : 3 |Pushed 4
+TU : 8 TL : 2 |Pushed 1
+The QUEUE is empty Waiting for timeout
+The QUEUE is empty Waiting for timeout
+No.3 has 0 Packets LEFT : 
+----------------------------------
+----------------------------------
+
+No.4 has 11 Packets : 
+TU : 1 TL : 9 |Pushed 0
+TU : 2 TL : 8 |Pushed 1
+TU : 3 TL : 7 |Pushed 5
+TU : 4 TL : 6 |Pushed 4
+TU : 5 TL : 5 |Pushed 9
+TU : 6 TL : 4 |Pushed 2
+TU : 7 TL : 3 |Pushed 3
+TU : 8 TL : 2 |Pushed 6
+TU : 9 TL : 1 |Pushed 0
+TU : 10 TL : 0 |Pushed 3
+No.4 has 1 Packets LEFT : 
+----------------------------------
+BUILD SUCCESSFUL (total time: 1 second)
